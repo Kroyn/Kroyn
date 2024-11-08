@@ -1,6 +1,9 @@
 I'm Kroyn, my real name Ivan, i'm from Ukraine, Kyiv, now i learning C++ programm language, my goal to create 3D Game Engine but i know how hard it is so I'm doing my best to achieve my goals.
 
-### Full information
+<details>
+
+  <summary><h2>Full information</h2></summary>
+
 - **Name:** Ivan
 - **Age:** 20
 - **Language:** Ukrainian, English(A1)
@@ -9,8 +12,9 @@ I'm Kroyn, my real name Ivan, i'm from Ukraine, Kyiv, now i learning C++ program
 - **Zodiac sign:** Capricornus
 - **Status:** Study "Computer Science"
 - **Discord:** kroyn
-
-### PC Specs
+<details>
+  <summary><h3>PC Specs</h3></summary>
+  
 - **CPU:** AMD Ryzen 5 3600 6-Core Processor, 3593 MHz
 - **Graphics Card:** AMD Radeon RX 580 (8GB VRAM)
 - **RAM:** 32GB - Kingston Fury kf2666c16d4/8g x4
@@ -19,8 +23,10 @@ I'm Kroyn, my real name Ivan, i'm from Ukraine, Kyiv, now i learning C++ program
 - **Hard Disk(2):** ST500DM005 HD502HJ (S20BJ90DC22587) [465 GB]
 - **SSD:** INTEL SSDPEKKW128G7 [119 GB]
 - **Monitor:** Samsung SyncMaster C24F390 (1920x1080 | 72Hz)
-
-### Operation System
+</details>
+<details>
+  <summary><h3>Operation System</h3></summary>
+  
 Yeah i use dualboot.
 #### Windows
 - **Edition:** Ghost Spectre Windows 11 Superlite
@@ -33,3 +39,5 @@ Yeah i use dualboot.
 ##### Kernels:
 - **First:** Linux 6.11.6-lqx1-1-lqx
 - **Second:** Linux 6.11.6-arch1-1
+</details>
+</details>
